@@ -1,6 +1,6 @@
 # Improved finite-size effects in QKD protocols with applications to decoy-state QKD
 
-This is a public version of the code used in Improved finite-size effects in QKD protocols with applications to decoy-state QKD \[\<arxiv link\>\]. This was built for [v2.0.2](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/releases/tag/v2.0.2) of the Open QKD Security package.
+This is a public version of the code used in *Improved finite-size effects in QKD protocols with applications to decoy-state QKD* \[[ArXiv](https://arxiv.org/abs/2502.05382)\]. This was built for [v2.0.2](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/releases/tag/v2.0.2) of the Open QKD Security package.
 
 The data in Figures 2 - 6 is created by running the following files:
 
