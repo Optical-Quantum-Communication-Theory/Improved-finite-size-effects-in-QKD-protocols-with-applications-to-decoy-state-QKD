@@ -10,7 +10,7 @@ The data in Figures 2 - 6 is created by running the following files:
 | Fig. 3  | `mainFiniteLossyQubitBB84.m` |
 | Fig. 4  | Key rates using 1-norm constraints run `mainFiniteLossyQubit1Norm.m`, <br> Key rates using entrywise constraints run `mainFiniteLossyQubitBB84.m` |
 | Fig. 5  | `mainFiniteDecoyBB84.m` |
-| Fig. 6  | `FourSixAdaptiveMain_DifInt.m`, <br> Switch between iid and ps needs to be done in preset `FourSixWCPDifInt_AdaptivePreset.m`. Both the 'symbolic' and 'statistics' toolbox are required. |
+| Fig. 6  | `FourSixAdaptiveMain_DifInt.m`, <br> Switch between iid and ps needs to be done in preset `FourSixWCPDifInt_AdaptivePreset.m`. Both the `symbolic` and `statistics` toolbox are required. |
 
 The folder '4-6Protocol' contains the fixed-length version of the variable-length 4-6 protocol, presented in section IX.A.
 
