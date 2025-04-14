@@ -22,7 +22,6 @@ The folder '4-6Protocol' contains the fixed-length version of the variable-lengt
 1. Download the linked version of the code from above and follow all [installation instructions](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/tree/v2.0.2).
 2. Also follow the additional Mosek install instructions if you want an exact match.
 3. Download the latest release on the side bar and unzip in your preferred directory and add this folder to the Matlab path.
-4.  \<Install directions for this repository. For example, add this folder to the Matlab path and save. Run this test function. Etc.\>
 
 
 ### with git
@@ -32,4 +31,3 @@ git clone --recurse-submodules https://github.com/Optical-Quantum-Communication-
 ```
 2. Follow all further [installation instructions](https://github.com/Optical-Quantum-Communication-Theory/openQKDsecurity/tree/v2.0.2).
 3. Also follow the additional Mosek install instructions if you want an exact match.
-3. \<Install directions for this repository. For example, add this folder to the Matlab path and save. Run this test function. Etc.\>
