@@ -310,7 +310,7 @@ for indexA = 1:numel(params.signalsAlice)
 end
 
 
-tau = zeros(size(muLower)); % These don't play a rule, but we have set it to zero because we are using 
+tau = zeros(size(muLower)); % These don't play a role, but we have set it to zero because we are using 
 % code written for fixed-length implementations, where tau / t was the size of
 % acceptance test. 
 
